@@ -1,0 +1,27 @@
+_repo: The-Analysis-of-Beauty-Written-with-a-view-of-fixing-the-fluctuating-ideas-of-taste_51459
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hogarth, William
+    birthdate: 1697
+    deathdate: 1764
+    gutenberg_agent_id: '36364'
+    url: http://www.gutenberg.org/2009/agents/36364
+description: ''
+gutenberg_issued: '2016-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51459'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BH'
+- !lcsh 'Aesthetics -- Early works to 1800'
+- !lcc 'N'
+- GITenberg
+title: 'The Analysis of Beauty
+
+  Written with a view of fixing the fluctuating ideas of taste'
+url: http://www.gutenberg.org/ebooks/51459
